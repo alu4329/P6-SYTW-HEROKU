@@ -4,8 +4,8 @@ task :default do
 end
 
 desc "Ejecución de los test unitarios"
-task :unitarios do
-  sh "ruby testunitario.rb"
+task :test do
+  sh "ruby test/test.rb"
 end
 
 
