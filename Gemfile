@@ -4,6 +4,7 @@ gem 'rake'
 gem 'rack'
 gem 'thin'
 gem 'haml'
+gem 'heroku'
 
 
 group :development, :test do

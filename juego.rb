@@ -2,6 +2,7 @@
 require 'rack'
 require 'thin'
 require 'haml'
+require 'heroku'
   
   module PiedraPapelTijera
     class App
