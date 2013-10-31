@@ -1,6 +1,6 @@
 desc "Ejecución básica de la aplicación"
 task :default do
-  sh "ruby juego.rb"
+  sh "rackup"
 end
 
 desc "Ejecución de los test unitarios"
