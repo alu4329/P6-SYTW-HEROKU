@@ -48,6 +48,8 @@ require 'heroku'
         engine = Haml::Engine.new File.open("views/index.html.haml").read
       
         res = Rack::Response.new
+	
+	self.some_key = self.some_key + 1 if req.path == '/'
 
 	resultado = {
           :estadisticas => @estadisticas,
