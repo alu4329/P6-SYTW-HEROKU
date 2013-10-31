@@ -10,4 +10,4 @@ builder = Rack::Builder.new do
       run PiedraPapelTijera::App.new
 end
 
-Rack::Handler::Thin.run builder, :Port => 9000
+Rack::Handler::Thin.run builder
