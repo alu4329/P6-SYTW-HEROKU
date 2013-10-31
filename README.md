@@ -15,7 +15,7 @@ Despliegue en Heroku de nuestra aplicación, para lo cual hemos tenido que añad
 3. `Gemfile` -> Añadida gema Heroku
 
 ### Link a la aplicación
-[](http://p6sytw.herokuapp.com/)
+[Link a la aplicación](http://p6sytw.herokuapp.com/)
 
 ###Método de complicación
 	$ rake
