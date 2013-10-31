@@ -34,4 +34,4 @@ Posteriormente escribir en el navegador utilizado:
 	http://localhost:9292
 
 ###Notas:
-- Aconsejo usar la herramienta para desarrolladores de Google Chrome para visualizar que las cookies existen y su valor se modifica en función de la elección.
+- Aconsejo usar la herramienta para desarrolladores de Google Chrome para visualizar que las cookies existen.
